@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+}
+
+.hero {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+}
+
+.image {
+    width: 250px;
+}
+
+.content {
+    flex: 1;
+    /* takes remaining space */
+}
+
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column;
+    }
+}
