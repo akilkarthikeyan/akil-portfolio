@@ -16,7 +16,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "portfolio.akilkarthikeyan.com",
+			"pattern": "akilkarthikeyan.com",
 			"custom_domain": true
 		}
 	],
