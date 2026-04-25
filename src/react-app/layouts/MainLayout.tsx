@@ -5,7 +5,7 @@ export default function MainLayout() {
     return (
         <>
             <header className={styles.header}>
-                <h1>Akil Karthikeyan Anandan</h1>
+                <h1>Akil Karthikeyan</h1>
             </header>
             <main className={styles.main}>
                 {/* Child components like <Home /> or <About /> appear here */}
